@@ -1,0 +1,30 @@
+[
+    {
+        "id": "C1",
+        "Name": "Arabic For Beginners ",
+        "det": "নুরানী কায়দা কোর্স একটি মৌলিক কোর্স যা আমাদের শিক্ষকরা নুরানি কায়দা সিলেবাস ব্যবহার করে শেখানো হয়। আমরা অভিজ্ঞ অনলাইন নুরানি কায়দা টিউটরদের সহায়তায় শিশু এবং প্রাপ্তবয়স্কদের (পুরুষ এবং মহিলাদের) জন্য ব্যাপক অনলাইন নুরানি কায়দা কোর্স ডিজাইন করেছি।",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4g_boAenTnkIv7TxS2fjq1RxRTu8zNtzgAw&usqp=CAU",
+        "Price": "30$"
+    },
+    {
+        "id": "C2",
+        "Name": "Reading the Holy Quran",
+        "det": "প্রত্যেক মুসলমানের কর্তব্য তাযবীদ নিয়ম ানুযায়ী পবিত্র কুরআন পড়া। আমরা সব বয়সের শিশু এবং প্রাপ্তবয়স্কদের জন্য ব্যাপক অনলাইন কুরআন রিডিং কোর্স ডিজাইন করেছি।",
+        "img": "https://s3.envato.com/files/326944190/IMG_0286.jpg",
+        "Price": "40$"
+    },
+    {
+        "id": "C3",
+        "Name": "Learn Tajweed ",
+        "det": "এই কোর্সটি এমন শিক্ষার্থীদের জন্য তৈরি করা হয়েছে যারা কুরআন পড়তে পারেন তবে সঠিক উচ্চারণের সাথে তাদের পাঠ দক্ষতা উন্নত করতে চান",
+        "img": "https://quranforkids.com/wp-content/uploads/2019/11/Learn-To-Read-Quran-With-Basic-Tajweed-Online-%E2%80%93-Basic-Tajweed-01.jpg",
+        "Price": "70$"
+    },
+    {
+        "id": "C4",
+        "Name": "Reading the Holy Quran ",
+        "det": "কোন সন্দেহ নেই পবিত্র কুরআন শেখার ক্ষেত্রে কোনও বয়স বাধা নেই। অনেক ভাই-বোন যারা কাজের ব্যস্ততার জন্য কোরআন শিখতে পারে না।",
+        "img": "https://islamfaith.com/wp-content/uploads/2018/03/Quran_Recite_Read-850x491.jpg",
+        "Price": "80$"
+    }
+]

@@ -1,0 +1,31 @@
+.banner {
+  background-image: url(../../islamic-new-year-concept-with-copy-space.jpg),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 780px;
+  width: 100%;
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.title {
+  color: white;
+  font-weight: bold;
+  font-size: 59px;
+}
+.about-btn {
+  background-color: #ff0505;
+  outline: none;
+  border: none;
+  padding: 17px 34px;
+  color: white;
+}
+
+.Qcolor{
+  color: rgb(255, 193, 35);
+}
+
+.Scolor{
+  color: #0e0b0b;
+}
